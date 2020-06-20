@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.map</groupId>
-  <artifactId>oneToOne</artifactId>
+  <artifactId>oneToOne_Bi</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>oneToOne</name>
+  <name>oneToOne_Bi</name>
   <url>http://maven.apache.org</url>
 
   <properties>

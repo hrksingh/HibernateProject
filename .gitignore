@@ -29,3 +29,9 @@ demo/.classpath
 demo/*.project
 demo/.settings
 demo/.gitignore
+
+*/target/
+*/.classpath
+*/*.project
+*/.settings
+*/.gitignore
