@@ -41,7 +41,8 @@ public class Javadoc_example {
 	/**
 	 * @deprecated I decided to to deprecate it
 	 * @code num*num
-	 * @literal hi just testing literal 
+	 * 
+	 * @literal{ hi just testing literal }
 	 */
 	public int addSquare(int numA){
 	      return numA * numA;
